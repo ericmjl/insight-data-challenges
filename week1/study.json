@@ -1,0 +1,10 @@
+{
+  "name": "employee-retention",
+  "author": "ericmjl",
+  "tags": [],
+  "scripts": {
+    "start": "kyso docker start"
+  },
+  "metadata": {},
+  "_version": "2fa13c3a832b5964fd38815107c66cdc8175664d"
+}
