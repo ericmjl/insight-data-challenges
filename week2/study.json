@@ -1,0 +1,12 @@
+{
+  "name": "pricing-challenge",
+  "author": "ericmjl",
+  "tags": [],
+  "scripts": {
+    "start": "kyso docker start",
+    "preversion": "pre_pymarkdown.py"
+  },
+  "metadata": {},
+  "_version": "4a1699771449e2b6643dac1bf3a276001fd8f706",
+  "main": "notebook.ipynb"
+}
