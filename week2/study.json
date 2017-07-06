@@ -3,10 +3,9 @@
   "author": "ericmjl",
   "tags": [],
   "scripts": {
-    "start": "kyso docker start",
-    "preversion": "pre_pymarkdown.py"
+    "start": "kyso docker start"
   },
   "metadata": {},
-  "_version": "4a1699771449e2b6643dac1bf3a276001fd8f706",
+  "_version": "c1b15bc3cfb2902ac18e588b72fd0129dec29292",
   "main": "notebook.ipynb"
 }
