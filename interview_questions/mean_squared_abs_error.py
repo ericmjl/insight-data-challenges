@@ -4,6 +4,9 @@ from mean absolute error?
 
 Implement a Python function that computes MSE, and implement a separate
 function for MAE.
+
+Follow-on: In the case of linear regression, how do the loss functions change
+when doing Ridge and Lasso regression?
 """
 import numpy as np
 
