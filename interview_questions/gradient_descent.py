@@ -23,7 +23,6 @@ def gd(x, k, lr):
     prev_step_size = x
 
     while prev_step_size > k:
-        # print(x)
         prev_x = x
         x += - df(prev_x) * lr
         prev_step_size = abs(x - prev_x)
