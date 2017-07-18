@@ -1,3 +1,9 @@
+"""
+What is bootstrap resampling? When do you use it?
+
+Implement bootstrap resampling in Python.
+"""
+
 from random import choice
 
 
